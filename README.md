@@ -12,6 +12,7 @@ Tested in VS2019, Litium 7 and 8.
 2. Extract the package in C:\Users\\__&lt;username>__\Documents\Visual Studio __&lt;Version>__\Templates\ItemTemplates\Visual C#
 
   Replace <username> with your username, and Version with your version of VS. Have a look at the path and extracted folder in the screenshot below.
+  
 3. Restart Visual Studio.
 
 ![Explorer](https://www.christianengvall.se/wp-content/uploads/2021/11/explorer.PNG)
