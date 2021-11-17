@@ -5,7 +5,7 @@ Adds templates to Visual Studio for different Litium specific classes. This spee
 
 In the case of creating a Service, as in the gif above, the generated class will have the correct attribute already added.
 
-Tested in VS2019, Litium 7 and 8.
+Tested in VS2019, VS2022, Litium 7 and 8.
 
 ## Installation
 1. Download the [latest release.](https://github.com/crilleengvall/LitiumVSItemTemplates/releases/download/v0.5/Litium.zip)
